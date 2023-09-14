@@ -1,0 +1,7 @@
+*.env
+*.DS_Store
+*__pycache__
+/build
+/stream
+/whisper
+/whisper_stream.egg-info
